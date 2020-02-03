@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-
-import { rhythm, scale } from "../utils/typography"
+import Menu from "./menu.js";
+import { rhythm } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -58,7 +58,8 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      <header title="Ir al inicio">{header}</header>
+      <Menu items={["Inicio","Sobre mi","Trabajemos juntos", "Contacto"]} />
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Hecho con
