@@ -1,7 +1,7 @@
 ---
 title: La incongruencia es el dolor más terrible.
 date: "2020-02-03T22:40:32.169Z"
-description: Así como el 15 de de junio de 1813, Simón Bolivar hizó el decreto de guerra a muerte ante la corona española, así declaro...
+description: Ser incongruente significa que lo que dices, lo que haces, **lo que es importante y prioritario para ti (tus valores)** no concuerda...
 tags: "reflexiones"
 category: "personal"
 ---
