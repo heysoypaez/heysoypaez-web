@@ -1,6 +1,9 @@
 ---
 title: La agenda es la clave
 date: "2020-02-01T22:40:32.169Z"
+description: La agenda es uno de los recursos más importante de mi vida (y probablemente de la tuya), lo tengo claro.
+tags: "observaciones"
+category: "desarrollo personal"
 ---
 
 > _Practica la virtud de la concreción, es decir, convertir los grandes valores y visiones en acciones súper concretas y pequeñas con fecha y hora._ Daniel Páez
