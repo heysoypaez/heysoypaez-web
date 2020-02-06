@@ -16,7 +16,7 @@ const submitStyles = {
 }
 
 const ContactForm = (props) => (
-	<form className="ContactForm" netlify>
+	<form className="ContactForm" name="contactForm" method="POST" netlify>
 		<input 
 			type="text" 
 			placeholder="Tu nombre" 
