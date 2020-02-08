@@ -246,6 +246,8 @@ Estoy comprometido a ser la causa con mi actividad diaria y mi agenda ejecutada 
 
 _No un iluso._
 
+_¿Quién quieres ser tú y que estás dispuesto a hacer por ello?_
+
 ## El llamado a la acción.
 
 Mi llamado a la acción para ambos es simple:
