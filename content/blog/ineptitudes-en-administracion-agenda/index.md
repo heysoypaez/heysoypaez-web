@@ -2,7 +2,7 @@
 title: ¿Donde fallas? Ineptitudes en la administración de la agenda.
 date: "2020-02-05T22:40:32.169Z"
 description: 
-tags: "observaciones"
+tags: ["observaciones"]
 category: "desarrollo personal"
 ---
 

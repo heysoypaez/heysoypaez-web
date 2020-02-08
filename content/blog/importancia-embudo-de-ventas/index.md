@@ -2,7 +2,7 @@
 title: El embudo de ventas es uno de los conceptos más importantes del marketing.
 date: "2020-02-04T22:40:32.169Z"
 description: Un embudo de ventas es como una persona pasa de conocerte a ser cliente...
-tags: "observaciones"
+tags: ["observaciones"]
 category: "marketing"
 ---
 > Si contactas a diez personas, una comprará. - Jim Rohn
