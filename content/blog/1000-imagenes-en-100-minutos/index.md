@@ -1,7 +1,7 @@
 ---
 title: 1000 imagenes en 100 minutos.
 date: "2020-02-14T22:40:32.169Z"
-description: 
+description:
 tags: ["experiencias"]
 category: "tecnologia"
 ---
@@ -24,7 +24,7 @@ Para ello, pensando un poco en el caso del cliente cree un código bastante simi
 
 ```
 # Conjunto de identificadores de productos.
-skus=( 3682802 4461395 4461397 "y 1000 SKUs más para el Array..."  
+skus=( 3682802 4461395 4461397 "y 1000 SKUs más para el Array..."
 )
 
 ```
@@ -37,11 +37,11 @@ imageURL='https://proveedor.com/producto'
 ```
 getImage () {
  # Muestra el HTML de la página de producto del proveedor en la terminal
- cat data | \ 
+ cat data | \
  # Extrae el HTML donde está el link a la imagen que quiero
  grep -oP "<a href='https://.+?\.jpg.+?' id='aProductImage'>" | \
  # Extrae la imagen
- grep -oP 'https://.+?\.jpg.+?'	
+ grep -oP 'https://.+?\.jpg.+?'
 }
 ```
 
@@ -52,16 +52,17 @@ do
    echo "$imageURL$i"
    # Descarga el HTML de la página de producto
    curl "$imageURL$i" --output data
-   # Obten la imagen de esa página de producto 
+   # Obten la imagen de esa página de producto
    getImage
    # Imprime lo que solicito en un archivo CSV
    printf "%d , %s , %s \n" $i "$(getImage)" "$(echo "$image$i")"   >> images.csv
 done
 
 ```
+
 ## Mi mensaje (basado en hechos reales).
 
-¿Y a qué viene esto? 
+¿Y a qué viene esto?
 
 Simplemente recordar como la programación, automatización, el conversar con el computador para hacer que siga las instrucciones precisas hace que la calidad de horas de trabajo en una organización se eleven, se llene de creatividad, desafío, demanda de talento nuestra jornada.
 
@@ -75,7 +76,7 @@ Una de mis principios fundamentales es:
 
 1000 imagenes en 100 minutos son 10 imagenes cada minuto, un rendimiento siendo honesto bastante ineficiente comparado con lo que podría llegar a ser.
 
-Soy muy consciente de ello. 
+Soy muy consciente de ello.
 
 Me comprometo a estudiar, practicar y mejorar este tipo de código Bash para hacerlos más eficientes.
 
