@@ -1,7 +1,7 @@
 ---
 title: ¿Donde fallas? Ineptitudes en la administración de la agenda.
 date: "2020-02-05T22:40:32.169Z"
-description: 
+description:
 tags: ["observaciones"]
 category: "desarrollo personal"
 ---
@@ -35,7 +35,7 @@ Ejemplo:
 - Para mi es prioridad esta semana dedicar tiempo a ejercitar mi cuerpo.
 ```
 
-Establecer prioridades significa **clarificar lo que quieres**, definir lo importante,  significa establecer metas, estándares, compromisos. 
+Establecer prioridades significa **clarificar lo que quieres**, definir lo importante, significa establecer metas, estándares, compromisos.
 
 Y significa **hacer lista de lo que no quieres** y decirle no, educar tu cuerpo y emociones para aborrecer invertir tiempo en lo que no quieres en tu vida y no es importante para ti.
 
@@ -61,11 +61,11 @@ Algunas Prioridades de mi vida
 - Haber sido ejemplo de educación independiente, disruptiva, poderosa basada en la acción sin universidad.
 ```
 
-2. **Establece metas claras a un año.**	
+2. **Establece metas claras a un año.**
 
 > Para quien no sabe hacia donde va cualquier camino es bueno.
 
-Tener metas claras, es parte de establecer prioridades porque clarificas que quieres de forma más tangible para tu vida cotidiana. 
+Tener metas claras, es parte de establecer prioridades porque clarificas que quieres de forma más tangible para tu vida cotidiana.
 
 Tener metas claras a un año (o un periodo razonable para ti), he notado como me permite darle dirección a mi dia, a mi semana y corregir a tiempo cuando me desvio o no estoy siguiendo un camino que de verdad me lleve a mi meta.
 
@@ -104,28 +104,30 @@ Organizarse bien en esencia es saber que ladrillos poner en tu agenda, donde pon
 ##### Además organizarse bien implica reconocer que:
 
 1. Somos humanos y necesitamos descansar.
-	1. Pero el descanso es una necesidad y no un objetivo de la vida.
 
-2. Lo que es importante para otra persona debe ser tan importante para ti como lo  sea esa persona.
-	1. Quizá te da igual la natación artística como a mi, pero si tu hija tiene importancia 100 y quiere que vayas a su presentación de natación, ¿Ves como debes adaptar tu agenda y aprender a apreciar lo que no aprecias?
-	2. Nota: este es un tema que aún me resultado complicado, el saber dedicar mi tiempo a los demás sin descuidar mi propio huerto. Me comprometo a convertirme en un hombre que saber tener una propia agenda efectiva, compartirlas y enriquecerla con otras personas.
+   1. Pero el descanso es una necesidad y no un objetivo de la vida.
+
+2. Lo que es importante para otra persona debe ser tan importante para ti como lo sea esa persona.
+
+   1. Quizá te da igual la natación artística como a mi, pero si tu hija tiene importancia 100 y quiere que vayas a su presentación de natación, ¿Ves como debes adaptar tu agenda y aprender a apreciar lo que no aprecias?
+   2. Nota: este es un tema que aún me resultado complicado, el saber dedicar mi tiempo a los demás sin descuidar mi propio huerto. Me comprometo a convertirme en un hombre que saber tener una propia agenda efectiva, compartirlas y enriquecerla con otras personas.
 
 3. La urgencia de las actividades populares gritará por nuestra atención.
-	1. Youtube, Facebook, Instagram, Netflix están diseñados para ser escalofriantemente adictivos, es hiperpopular pero depende de ti dejarte llevar por su fuerza o aprender a darle el tiempo que se merecen de acuerdo a tus prioridades.
-		1. Nota: creo que las redes sociales tienen su importancia para mi pero necesitamos aprender a navegar en ellas con cuidado.
-	2. Siempre surgirán reuniones a las que sería politicamente correcto ir, ¿Pero si es de personas que no son importantes para ti por qué invertir el tiempo allí?
-		1. Nota: esto suena politicamente incorrecto pero aunque quieras y respetas a todas las personas cómo yo, necesitas reconocer que no todas las relaciones tienen el mismo peso en tu vida, tu visión.
-	3. Siempre habrá una nueva noticia viral, una serie que todo el mundo ve ¿Pero son tan populares como importantes para ti?
+   1. Youtube, Facebook, Instagram, Netflix están diseñados para ser escalofriantemente adictivos, es hiperpopular pero depende de ti dejarte llevar por su fuerza o aprender a darle el tiempo que se merecen de acuerdo a tus prioridades.
+      1. Nota: creo que las redes sociales tienen su importancia para mi pero necesitamos aprender a navegar en ellas con cuidado.
+   2. Siempre surgirán reuniones a las que sería politicamente correcto ir, ¿Pero si es de personas que no son importantes para ti por qué invertir el tiempo allí?
+      1. Nota: esto suena politicamente incorrecto pero aunque quieras y respetas a todas las personas cómo yo, necesitas reconocer que no todas las relaciones tienen el mismo peso en tu vida, tu visión.
+   3. Siempre habrá una nueva noticia viral, una serie que todo el mundo ve ¿Pero son tan populares como importantes para ti?
 4. Desatender las cosas importantes de tu vida el tiempo suficiente generará crisis en tu vida.
-	1. Descuida tu cuerpo y lo verás.
-	2. Falla a tus clientes y lo verás.
-	3. Desatiende a tus amigos y lo verás.
-	4. Desatiende a tu familia y lo verás.
-	5. Nunca trabajes en el proyecto que quieres crear y lo verás.
-	6. Nunca desarrolles nuevas habilidades y lo verás.
+   1. Descuida tu cuerpo y lo verás.
+   2. Falla a tus clientes y lo verás.
+   3. Desatiende a tus amigos y lo verás.
+   4. Desatiende a tu familia y lo verás.
+   5. Nunca trabajes en el proyecto que quieres crear y lo verás.
+   6. Nunca desarrolles nuevas habilidades y lo verás.
 5. Puedes ser flexible en tus horarios pero no en tus prioridades.
-	1. Si el muro de Facebook de Justin Bieber es prioridad 0 entonces es tiempo 0.
-	2. Si hacer nuevos contactos es prioridad 100 quizá hoy fallaste pero mañana corriges, es tiempo 100.
+   1. Si el muro de Facebook de Justin Bieber es prioridad 0 entonces es tiempo 0.
+   2. Si hacer nuevos contactos es prioridad 100 quizá hoy fallaste pero mañana corriges, es tiempo 100.
 
 #### Hay prioridades en nuestra vida que no atendemos por miedo, pereza, incomodidad o ignorancia.
 
@@ -137,7 +139,7 @@ Si vender un producto o servicio en el que crees es prioridad para ti para te pr
 
 Tú eres responsable de buscar a las personas que disfrutan vender y pedir ayuda para hacer el proceso más ameno, eres responsable de vencer tu incomodidad.
 
-_En resumen ¿Qué te quiero decir?_ 
+_En resumen ¿Qué te quiero decir?_
 
 Lo que te quiero decir es que existe una forma tanto para ti como para mi de atender cualquier prioridad que se nos ocurra para nuestra vida, hay una forma de usar tu tiempo que te lleva a ello.
 
@@ -145,14 +147,13 @@ Lo que te quiero decir es que existe una forma tanto para ti como para mi de ate
 
 > "...La mayor parte de las personas dicen que lo que principalmente les falta es disciplina. Pensándolo con más profundidad, creo que ése no es el caso. El problema básico consiste en que las prioridades no han arraigado en sus corazones y sus mentes. No han internalizado verdaderamente el segundo hábito..." Stephen Covey.
 
-Me fascina el origen de la palabra disciplina: _ser discipulo._  
+Me fascina el origen de la palabra disciplina: _ser discipulo._
 
 **Ser disciplinado significa ser discipulo de tus valores**, de lo que es importante para ti y decir no al resto.
 
 **Ser indisciplinado significa que deshonras tus valores**, que insultas tus prioridades, que irrespetas tu visión de vida.
 
-Me explico: Si te propusiste aprender inglés el fin de año, si lo pusiste como  prioridad para tu año y en tu semana no has experimentado la incomodidad de ver un curso de inglés. ¿Como  pretendes progresar? ¿Te das cuenta como o no es una prioridad real o no te estás ateniendo a ella?
-
+Me explico: Si te propusiste aprender inglés el fin de año, si lo pusiste como prioridad para tu año y en tu semana no has experimentado la incomodidad de ver un curso de inglés. ¿Como pretendes progresar? ¿Te das cuenta como o no es una prioridad real o no te estás ateniendo a ella?
 
 #### Autoengaño
 
@@ -180,7 +181,6 @@ Si fallas en tu organización semanal díficilmente te sirva una buena ejecució
 
 Nuestras emociones dirigen nuestra conducta, necesitamos aprender a odiar la pizza si no queremos comerla, necesitamos aprender a amar nuestras metas y enamorarnos del trabajo que nos lleva a ellas, obsesionarnos incluso, si queremos ser consistentes.
 
-
 No basta con usar la fuerza de voluntad porque tarde o temprano fallará o vivirás una vida muy miserable haciendo cosas que odias para conseguir lo que quieres.
 
 3. Diseña tu agenda cada semana pero revisala cada día.
@@ -189,7 +189,7 @@ No basta con usar la fuerza de voluntad porque tarde o temprano fallará o vivir
 
 Si sabes como vivir una semana de forma gratificante y productiva, sabes como vivir tu vida de forma gratificante y productiva.
 
-Para vivirla, en mi experiencia es necesaria la revisión minuciosa diaria para mantenerte enfocado, para mantenerte en la agenda. 
+Para vivirla, en mi experiencia es necesaria la revisión minuciosa diaria para mantenerte enfocado, para mantenerte en la agenda.
 
 Cuando dejas de revisar dejas de ejecutar.
 
@@ -210,7 +210,7 @@ Clarificar es tan simple como imaginar y escribir los pasos que debes dar para l
 ```
 Prioridades del dia
 ---------------
-Trabajo 
+Trabajo
 1. [] Hacer maqueta web.
 	1. [] Hacer boceto en papel.
 	2. [] Llevarlo a HTML puro.
@@ -232,7 +232,7 @@ Cuando ves que colocan esa nueva serie de Netflix en un momento donde no es apro
 
 Practicalo, practica ese nuevo hábito en tu vida, el de interrumpir las distracciones.
 
-Y mucho mejor sería el de prevenir las distracciones, es decir, hacer todo lo que está en tu área de influencia para diseñar un ambiente sin  distracciones.
+Y mucho mejor sería el de prevenir las distracciones, es decir, hacer todo lo que está en tu área de influencia para diseñar un ambiente sin distracciones.
 
 Nota: lo que en un momento puede ser una distracción, en otro momento puede ser una desconexión apropiada, ten una agenda clara para tener un criterio claro.
 
@@ -242,7 +242,7 @@ Quiero ser el hombre que usó su tiempo de forma magnifica.
 
 Quiero controlar mi atención, llenar mi dia de cosas importantes, controlar las distracciones, la postergación y lo innecesario.
 
-Estoy comprometido a ser la causa con mi actividad diaria y mi agenda ejecutada hacia el logro de mis metas. 
+Estoy comprometido a ser la causa con mi actividad diaria y mi agenda ejecutada hacia el logro de mis metas.
 
 _No un iluso._
 
@@ -251,6 +251,7 @@ _¿Quién quieres ser tú y que estás dispuesto a hacer por ello?_
 ## El llamado a la acción.
 
 Mi llamado a la acción para ambos es simple:
+
 1. Clarifica tu visión de vida, tus metas.
 2. Identifica como quieres usar tu tiempo en congruencia a ello.
 3. Toma consciencia de los problemas que te lo han impedido.
