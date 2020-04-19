@@ -1,4 +1,3 @@
-
 La traicion no depende de cuanto amas a alguien sino del dilema que te ponen delante
 
 Hicieron un atraco con base a tecnologia increible

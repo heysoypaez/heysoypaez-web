@@ -1,6 +1,6 @@
 ---
-title: ¿Cómo hacer una lectura de inspección?
-date: "2020-03-26T22:40:32.169Z"
+title: ¿Cómo hacer una lectura analitica?
+date: "2020-04-19T22:40:32.169Z"
 description: "La lectura analitica es el arte de profundizar en las materias de un libro hasta comprenderlo en su totalidad."
 tags: ["lectura", "escritura"]
 category: "comunicacion"
@@ -10,20 +10,19 @@ aplicación: "Lectura de libros"
 
 > _"Si leyera tantos libros como la mayoría de las personas, sería tan estúpido como ellas."- Thomas Hobbes._
 
-Si algo he descubierto de leer ***Cómo leer un libro*** por Mortimer Adler, es que más importante que cuantos libros lees es como los lees.
+Si algo he descubierto de leer **_Cómo leer un libro_** por Mortimer Adler, es que más importante que cuantos libros lees es como los lees.
 
 Lee menos pero lee mejor, de eso precisamente trata la lectura analitica.
 
 ### ¿Qué es la lectura analitica?
 
-La lectura de analitica es aquella que va más allá de [la simple examinación de un libro](/como-hacer-una-lectura-de-inspeccion/) es aquella donde profundizas sobre los conocimientos que ofrece un libro.
+La lectura analitica es aquella que va más allá de [la simple examinación de un libro](/como-hacer-una-lectura-de-inspeccion/) es aquella donde profundizas sobre los conocimientos que ofrece un libro.
 
 Es el tipo de lectura donde elevas tu mente al mismo nivel de la mente del autor usando las palabras como medio.
 
 En esencia, es la lectura donde adquieres una comprensión profunda de una materia concreta.
 
 No es lo mismo leer _El hombre en busca de Sentido_ de Viktor Frank en una examinada rápida sin detenerte a reflexionar, que leerlo analiticamente palabra por palabra, oración por oración.
-
 
 ### Preguntas fundamentales para hacer una lectura de inspección
 
@@ -35,8 +34,8 @@ Las preguntas claves son:
 2. ¿Qué se dice en detalle, y cómo se lo dice?
 3. ¿Es cierto lo que dice?
 4. ¿Qué importancia tiene?
- 
-Y si me permites añadir una más sería:
+
+Y si me permites añadiré una más sería:
 
 5. ¿Cómo puedo usar esto?
 
@@ -51,27 +50,25 @@ Estas preguntas por simple que parezcan, desembocan en un conjunto de reglas _o 
 3. Enumerar las partes más importantes según su orden y correlación y perfilar dichas partes al igual que se ha hecho con el todo.
 4. Definir el problema o los problemas que ha tratado de resolver el autor.
 
-
 ##### II. Segunda etapa de la lectura analitica: reglas para interpretar el contenido de un libro
 
 5. Llegar a un acuerdo con el autor interpretando las palabras clave.
 6. Comprender las proposiciones más destacadas del autor reflexionando sobre las oraciones más importantes.
 7. Conocer los argumentos del autor hallándolos en las secuencias
-de oraciones o construyéndolos a partir de éstas.
+   de oraciones o construyéndolos a partir de éstas.
 8. Determinar qué problemas ha resuelto el autor y cuáles no, y de
-entre estos últimos, cuáles sabe el autor que no ha logrado resolver.
+   entre estos últimos, cuáles sabe el autor que no ha logrado resolver.
 
 ##### III. Tercera etapa de la lectura analitica: reglas para criticar un libro como comunicación de conocimientos.
 
 ###### A. Máximas generales de la etiqueta intelectual
 
 9. No empezar la crítica antes de haber completado el perfilado y
-la interpretación del libro. (No decir que se está de acuerdo o se
-disiente, ni suspender el juicio hasta poder decir «Lo comprendo».)
+   la interpretación del libro. (No decir que se está de acuerdo o se
+   disiente, ni suspender el juicio hasta poder decir «Lo comprendo».)
 10. No disentir por puro afán de polémica.
 11. Demostrar que se reconoce la diferencia entre conocimiento y
-simple opinión personal, aportando buenas razones para cualquier juicio crítico.
-
+    simple opinión personal, aportando buenas razones para cualquier juicio crítico.
 
 ###### B. Criterios especiales para los puntos de critica
 
@@ -83,7 +80,20 @@ simple opinión personal, aportando buenas razones para cualquier juicio crític
 Nota. De los cuatro últimos criterios, los tres primeros se aplican a la desavenencia. Si el lector no logra hacerlo, tendrá que coincidir con el autor, al menos en parte, si bien puede suspender el
 enjuiciamiento de la totalidad, a la luz del último punto.
 
+### Conclusión de este proceso
 
+Estos principios destilan la esencia de como leer analiticamente un libro.
 
-##### Conclusión de este proceso
+Soy muy consciente que probablemente te queden dudas al respecto al ver frases tan compactas.
 
+¿Mi recomendación? Lee [el libro de Mortimer Adler que me ha servido como guía para leer](https://clea.edu.mx/biblioteca/Adler%20Mortimer%20-%20Como%20Leer%20Un%20Libro.pdf).
+
+Creo que será una inversión hiperrentable para el resto de tu vida debido a que:
+
+1. Serás más productivo en tu lectura (absorberás, descubirás, refinarás más en menos tiempo).
+2. Serás más selectivo con lo que lees. (No leas cualquier cosa, lee buenos libros).
+3. Elevarás exacerbadamente tu calidad de vida en el largo plazo.
+
+Esto último debido a que la base de una buena vida es tomar buenas decisiones habitualmente y la base de las buenas decisiones es contar con opiniones, pensamientos, perspectivas y conocimientos correctos y prácticos en nuestra cabeza.
+
+Leer mejor es una de las base innegables, en mi opinión, para ello.
