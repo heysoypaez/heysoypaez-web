@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import ContactForm from "../components/contactForm.js";
+import ContactForm from "../components/contactForm.js"
 import WorkTogetherCopy from "../components/workTogetherCopy.mdx"
 
 const WorkTogetherPage = ({ data, location }) => {

@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import ContactForm from "../components/contactForm.js";
+import ContactForm from "../components/contactForm.js"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -13,8 +13,6 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="Formulario de contacto" />
       <Bio />
       <ContactForm />
-      
-
     </Layout>
   )
 }

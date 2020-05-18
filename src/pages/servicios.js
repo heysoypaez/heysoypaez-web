@@ -1,9 +1,9 @@
 import React from "react"
-import {  graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import ContactForm from "../components/contactForm.js";
+import ContactForm from "../components/contactForm.js"
 
 const ServicesPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -13,8 +13,6 @@ const ServicesPage = ({ data, location }) => {
       <SEO title="Servicios profesionales" />
       <Bio />
       <ContactForm />
-      
-
     </Layout>
   )
 }

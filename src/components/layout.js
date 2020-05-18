@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Menu from "./menu.js";
+import Menu from "./menu.js"
 import { rhythm } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
@@ -59,7 +59,7 @@ const Layout = ({ location, title, children }) => {
       }}
     >
       <header title="Ir al inicio">{header}</header>
-      <Menu items={["Inicio","Sobre mi","Trabajemos juntos", "Contacto"]} />
+      <Menu items={["Inicio", "Sobre mi", "Trabajemos juntos", "Contacto"]} />
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Hecho con

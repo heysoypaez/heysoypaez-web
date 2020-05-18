@@ -39,7 +39,6 @@ const BlogIndex = ({ data, location }) => {
           </article>
         )
       })}
-
     </Layout>
   )
 }
