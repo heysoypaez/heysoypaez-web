@@ -3,17 +3,16 @@ import {  graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import ContactForm from "../components/contactForm.js";
+import AboutMe from "../components/aboutMe.mdx"
 
 const AboutMePage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Sobre Daniel Páez" />
+      <SEO title="Sobre Daniel Páez - Desarrollador de Software" />
       <Bio />
-      <ContactForm />
-      
+      <AboutMe />
 
     </Layout>
   )

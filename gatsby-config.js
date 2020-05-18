@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Heysoypaez Blog`,
     author: `Daniel Páez`,
-    siteUrl: `https://heysoypaez.com`,
-    description: `Mi blog para contribuir a un mundo más feliz, saludable y tecnológico.`,
+    siteUrl: `https://heysoypaez.netlify.app`,
+    description: `Mi blog para contribuir a un mundo más feliz, saludable y productivo.`,
     social: {
       twitter: `heysoypaez`,
       linkedin: `heysoypaez`,
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Heysoypaez Blog`,
+        short_name: `HeysoypaezBlog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
