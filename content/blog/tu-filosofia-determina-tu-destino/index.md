@@ -2,14 +2,14 @@
 title: Tu filosofía determina tu destino.
 date: "2020-02-01T22:40:32.169Z"
 description: "No es lo que te sucede, es lo que haces al respecto lo que determina la mayor parte de tu destino"
+tags: ["principios"]
 category: "Desarrollo personal"
 ---
 
 Probablemente fue Julio del 2016 la primera vez que escuché **y comprendí** la frase que tanto ha dado dirección a la vida que busco:
 
-
 > No es lo que te sucede, es lo que haces al respecto lo que determina la mayor parte de tu destino.
-Jim Rohn
+> Jim Rohn
 
 Leela y por favor ponla en tu fondo de pantalla.
 

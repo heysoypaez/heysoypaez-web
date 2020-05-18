@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Heysoypaez Blog`,
     author: `Daniel Páez`,
-    description: `Un blog para contribuir a un mundo más feliz, saludable y tecnológico.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://heysoypaez.com`,
+    description: `Mi blog para contribuir a un mundo más feliz, saludable y tecnológico.`,
     social: {
       twitter: `heysoypaez`,
       linkedin: `heysoypaez`,
@@ -74,7 +74,8 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    `gatsby-plugin-mdx`
+    `gatsby-plugin-mdx`,
+    `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

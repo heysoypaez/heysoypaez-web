@@ -25,7 +25,7 @@ const Bio = () => {
         siteMetadata {
           author
           social {
-            twitter
+            linkedin
           }
         }
       }
@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Escrito por <strong>{author}</strong>. Vivo en Chile y creo webs para empresas  .
-        {` `}
+        Escrito por <strong>{author}</strong>. Vivo en Chile y creo webs para
+        empresas .{` `}
         <a href={`https://linkedin.com/in/${social.linkedin}`}>
           Deberíamos conversar en Linkedin
         </a>

@@ -2,7 +2,7 @@
 title: Voy a programar hasta el dia en que me muera.
 date: "2020-02-01T22:40:32.169Z"
 description: Así como el 15 de de junio de 1813, Simón Bolivar hizó el decreto de guerra a muerte ante la corona española, así declaro...
-tags: "compromisos"
+tags: ["compromisos"]
 category: "programación"
 ---
 
@@ -13,6 +13,7 @@ Así como el 15 de de junio de 1813, Simón Bolivar hizó el decreto de guerra a
 ## ¿Por qué lo hago?
 
 Porque sé, sin un ápice de duda que esta es una de las profesiones, artes y ciencias que:
+
 1. Disfruto enormemente y fluyo.
 2. Puedo tener un impacto estruendosamente positivo en mi entorno.
 3. SIEMPRE tendré algo nuevo que aprender, corregir, mejorar.

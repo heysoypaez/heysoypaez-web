@@ -13,7 +13,7 @@ const Layout = ({ location, title, children }) => {
         style={{
           marginBottom: rhythm(1.5),
           marginTop: 0,
-          textAlign: "center"
+          textAlign: "center",
         }}
       >
         <Link
@@ -64,9 +64,9 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Hecho con
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a> por 
-         {` `}        
-        <a href="https://www.linkedin.com/in/heysoypaez/">@heysoypaez</a> 
+        <a href="https://www.gatsbyjs.org">Gatsby</a> por
+        {` `}
+        <a href="https://www.linkedin.com/in/heysoypaez/">@heysoypaez</a>
       </footer>
     </div>
   )
