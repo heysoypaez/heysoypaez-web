@@ -36,7 +36,7 @@ Un planeta donde es realmente díficil comunicarle y escuchar cuando otras perso
 
 Un universo donde el aire social nos invita a no conocer a nuevas personas y a opinar diferente en una conversación por las molestias que puede eso ocasionar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6aTEKHor9X0?start=1103" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6aTEKHor9X0?start=1103" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Cuales son las consecuencias lógicas de la correción politica?
 

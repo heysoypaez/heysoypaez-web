@@ -25,6 +25,3 @@ Sentirse libre, amigos míos, independiente de las circunstancias externas, creo
 Me despido con una cita de [Mises](https://www.youtube.com/watch?v=ocgHUN6fRYU).
 
 > En esto consiste entonces la libertad externa en la vida del Hombre, en su independencia del poder arbitrario de sus congéneres. - Ludwig von Mises
-
-
-
