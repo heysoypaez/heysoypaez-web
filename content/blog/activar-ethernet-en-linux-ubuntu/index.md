@@ -3,7 +3,8 @@ title: ¿Cómo activar el ethernet en Linux Ubuntu?
 date: "2020-06-08T22:40:32.169Z"
 description: "Aprende como conectarse con Ethernet en Linux Ubuntu."
 tags: ["notas"]
-category: "software"
+category: ["software"]
+slug: "activar-ethernet-en-linux-ubuntu"
 ---
 
 > “La filosofía de Linux es ‘Ríete en la cara del peligro’. Ups, no. ‘Hazlo tú mismo’. Sí, eso es.” - [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds)

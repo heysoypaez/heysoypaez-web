@@ -3,7 +3,7 @@ title: ¿Cómo hacer una lectura analitica?
 date: "2020-04-19T22:40:32.169Z"
 description: "La lectura analitica es el arte de profundizar en las materias de un libro hasta comprenderlo en su totalidad."
 tags: ["lectura", "escritura"]
-category: ["educacion-ycomunicacion"]
+category: ["educacion-y-comunicacion"]
 comentarios: "Este libro será fundamental para desarrollar mi habilidad de leer mejor, hablar mejor, escribir mejor y escuchar mejor a nivel lógico."
 aplicación: "Lectura de libros"
 slug: "como-hacer-una-lectura-analitica"
