@@ -7,7 +7,7 @@ category: ["profesional"]
 slug: "el-padre-sobreprotector-y-el-padre-liberal"
 ---
 
-> “En los primeros años de su existencia ella sentirá su cariño. Al final de su vida, usted estará en su recuerdo. Y lo que suceda en el ínterin dependerá de usted. Quiérala extraordinariamente. En eso consiste la esencia de la paternidad.” meg meeker Pediatra estadounidense
+> “En los primeros años de su existencia ella sentirá su cariño. Al final de su vida, usted estará en su recuerdo. Y lo que suceda en el ínterin dependerá de usted. Quiérala extraordinariamente. En eso consiste la esencia de la paternidad.” [Meg Meeker Pediatra estadounidense](https://www.meekerparenting.com/)
 
 Permiteme hacerte una pregunta un tanto personal.
 
@@ -17,13 +17,13 @@ Apuesto a que sí o que por lo menos tuviste el típico amigo con la historia de
 
 - De niño era quién nunca salia a jugar y su mamá lo llamaba gritando.
 - De adolescente era quién no iba a las fiestas y cuando iba tenía que llegar a su casa a las 10:00pm en punto. Sin mencionar que tenía horas estrictas de estudio.
-- Y ya casi de adulto fueron padres quienes eligieron la carrera que iba a estudiar.
+- Y ya casi de adulto fueron sus padres quienes eligieron la carrera que iba a estudiar.
 
 _¿Qué diferencia hay entre un gobierno sobreprotector y un padre sobreprotector?_
 
 ## La historia de la mamá sobreprotectora.
 
-Recuerdo a una amiga, para nuestros fines la llamaremos María.
+Recuerdo a una amiga, quién para nuestros fines la llamaremos María.
 
 María, tenía esa mamá que estaba al tanto de todo lo que pasaba en el colegio de su hija, que controlaba a que hora salía y llegaba a su casa, que estaba pendiente que no anduviesen detrás de su niña.
 
@@ -35,7 +35,7 @@ _¿Qué diferencia a una madre, que con muy buenas intenciones impone una forma 
 
 Mis amigos me envidiaban.
 
-Les volvía loco el hecho de que mis padres me dejarán tomar, fumar si quería, me dejarán condones en la gaveta. ir a cualquier fiesta, hacer lo que quisiera, dormir en casa de alguien más sin mayor problema.
+Les volvía loco el hecho de que mis padres me dejarán tomar, fumar si quería, me dejarán condones en la gaveta, ir a cualquier fiesta, hacer lo que quisiera, dormir en casa de alguien más sin mayor problema.
 
 ¿Y sabes que era lo más inusual de todo eso?
 
@@ -45,15 +45,15 @@ Nunca tuve los incentivos personales que tuvieron mis amigos más "protegidos" d
 
 Lo disfrutaba muchísimo pero con prudencia.
 
-Cómo anécdota incluso hasta el día en que escribo esto nunca he fumado un cigarro y jamás pienso hacerlo.
+Como anécdota incluso hasta el día en que escribo esto nunca he fumado un cigarro y jamás pienso hacerlo.
 
 ¿Por qué?
 
 Porque mis padres muy bien me enseñaron que podía hacer lo que me diese la gana con mi vida pero que _toda acción, todo daño que me hiciera o le hiciera a los demás tendría consecuencias geniales o terribles de las que yo sería responsable y no podría escapar._
 
-Me enseñaron claramente que si no estudiaba y no era uno de los mejores de mi clase no accedería a una beca universitaria y sin una beca ellos no tendrían dinero para pagar mis estudios y tendria mi vida profesional bien dificil.
+Me enseñaron claramente que si no estudiaba y no era uno de los mejores de mi clase no accedería a una beca universitaria y sin una beca ellos no tendrían dinero para pagar mis estudios y tendria el inicio de mi vida profesional bastante dificil.
 
-Pero yo era libre de decidir cuando, cómo y con cuales amigos (o solo) estudiaba.
+Pero yo era libre de decidir si estudiaba o no. Y en tal caso cuando, cómo y con cuales amigos (o solo) hacerlo.
 
 _Eso, querido lector, es la filosofía liberal._
 
@@ -71,7 +71,9 @@ Quienes más libertades tienen desde muy joven y viviendo en un marco de valores
 
 ¿Por qué?
 
-Porque comprenden que su vida es producto de sus decisiones, porque el tener un papá que limita sus pasos cometen errores más rápido y por tanto aprender más rápido. Y si eso a eso le añadimos que no se le echa la culpa a alguien por tus malas experiencias tienes el coctel perfecto.
+Porque comprenden que su vida es producto de sus decisiones, porque al carecer de un papá que limita sus pasos cometen errores más rápido y por tanto aprenden más rápido.
+
+Y si eso a eso le añadimos que no se le echa la culpa a alguien por tus malas experiencias logramos el cóctel perfecto.
 
 Eso no significa que siempre sea así.
 
@@ -85,7 +87,7 @@ Una sociedad libre es imperfecta, habrá algunas personas, _asi como algunos hij
 
 ## Diferenciando entre obligar y proponer.
 
-Tienes todo el derecho (y de hecho deberías hacerlo) de ayudar a quien necesite ayude y a comunicar consistentemente las consecuencias que pueden desatar ciertos proyectos de vida, ciertas rutas de decisión catastroficas pero al final del día **cada persona _como cada hijo que tengas_ toma sus propias decisiones y es responsable por su propia vida.**
+Tienes todo el derecho (y de hecho deberías hacerlo) de ayudar a quien necesite ayuda y a comunicar consistentemente las consecuencias que pueden desatar ciertos proyectos de vida, ciertas rutas de decisión catastroficas pero al final del día **cada persona _como cada hijo que tengas_ toma sus propias decisiones y es responsable por su propia vida.**
 
 Al Gobierno que se atreve a tomar todas las decisiones por nosotros le llamamos Estado totalitario.
 
