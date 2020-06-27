@@ -1,0 +1,9 @@
+figure {
+	display: grid;
+	justify-content: center;
+}
+
+figcaption {
+	font-style: italic;
+	font-size: 14px;
+}
