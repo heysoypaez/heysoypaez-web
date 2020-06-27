@@ -3,9 +3,10 @@ title: La dictadura de la correción política y el coraje
 date: "2020-05-15T22:40:32.169Z"
 description: "No creo en Dios, (más precisamente me da igual si existe o no existe, no ocupo Disco Duro mental en ello)."
 tags: ["personal", "estadística"]
-category: "filosofia"
+category: ["filosofia"]
 aplicación: "tomar mejores decisiones diariamente"
 type: "microentry"
+slug: "la-directadura-de-la-correccion-politica-y-el-coraje"
 ---
 
 ## Un poco de incorrección política:

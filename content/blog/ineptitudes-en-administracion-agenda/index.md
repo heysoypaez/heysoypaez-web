@@ -3,7 +3,8 @@ title: ¿Donde fallas? Ineptitudes en la administración de la agenda.
 date: "2020-02-05T22:40:32.169Z"
 description:
 tags: ["observaciones"]
-category: "desarrollo personal"
+category: ["individuo"]
+slug: "ineptitudes-en-administracion-agenda"
 ---
 
 > "El hombre se autorealiza en la misma medida en que se compromete al cumplimiento del sentido de su vida". - Viktor Frank

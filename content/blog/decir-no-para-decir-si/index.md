@@ -3,7 +3,8 @@ title: Decir NO para decir si.
 date: "2020-02-11T22:40:32.169Z"
 description:
 tags: ["observaciones"]
-category: "desarrollo personal"
+category: ["individuo"]
+slug: "decir-no-para-decir-si"
 ---
 
 > "Es preciso decidir cuáles son las prioridades más altas, y tener el valor de decir «No» a otras cosas, con buena educación, sonriendo, y sin dar excusas." - Stephen Covey.

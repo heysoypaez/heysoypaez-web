@@ -1,9 +1,10 @@
 ---
 title: Productividad exponencial compuesta.
 date: "2020-06-06T22:40:32.169Z"
-description: "Este archivo trata sobre x"
+description: "En el momento en que escribo esto tengo 20 años, 2 meses y 23 días de vida. (te sorprendé la precisión, lo sé)."
 tags: ["notas"]
-category: "profesional"
+category: ["individuo"]
+slug: "productividad-exponencial-compuesta"
 ---
 
 En el momento en que escribo esto tengo 20 años, 2 meses y 23 días de vida. (te sorprendé la precisión, lo sé).

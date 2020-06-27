@@ -3,9 +3,10 @@ title: ¿Cómo hacer una lectura de inspección?
 date: "2020-03-26T22:40:32.169Z"
 description: "La lectura de inspección es el arte de examinar un libro de forma sistemática."
 tags: ["lectura", "escritura"]
-category: "comunicacion"
+category: ["educacion-y-comunicacion"]
 comentarios: "Este libro será fundamental para desarrollar mi habilidad de leer mejor, hablar mejor, escribir mejor y escuchar mejor a nivel lógico."
 aplicación: "Lectura de libros"
+slug: "como-hacer-una-lectura-de-inspeccion"
 ---
 
 > _"Primeros necesitas ver claramente la superficie para después comprender completamente la profundidad"._

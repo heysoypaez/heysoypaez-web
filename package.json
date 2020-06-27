@@ -41,6 +41,7 @@
     "gatsby-plugin-mdx": "^1.2.7",
     "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-transformer-sharp": "^2.3.14",
+    "lodash": "^4.17.15",
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",

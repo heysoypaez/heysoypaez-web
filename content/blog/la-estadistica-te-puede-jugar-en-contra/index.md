@@ -3,9 +3,10 @@ title: La estadística te puede jugar en contra
 date: "2020-05-05T22:40:32.169Z"
 description: "La estadística te puede jugar en contra. ( O tú puedes ser muy tonto en un momento especifico de tu vida, también es posible)."
 tags: ["personal", "estadística"]
-category: "personal"
+category: ["personal"]
 aplicación: "tomar mejores decisiones diariamente"
-type: "microentry"
+type: "microentry
+slug: "la-estadistica-te-puede-jugar-en-contra"
 ---
 
 **La estadística te puede jugar en contra.** ( O tú puedes ser muy tonto en un momento especifico de tu vida, eso también es posible).

@@ -1,9 +1,10 @@
 ---
 title: Las tres libertades humanas.
 date: "2020-06-05T22:40:32.169Z"
-description: "Este archivo trata sobre x"
+description: "Cuando hablamos de libertad, a veces nos falta ser especificos en nuestros términos y discernir sobre las diferentes libertades que existen."
 tags: ["notas"]
-category: "filosofia"
+category: ["filosofia"]
+slug: "las-tres-libertades-humanas"
 ---
 
 > La libertad nunca es dada; se gana - A. Philip Randolph

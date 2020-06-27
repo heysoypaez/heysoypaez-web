@@ -2,8 +2,9 @@
 title: La libertad.
 date: "2020-05-30T22:40:32.169Z"
 description: "Son pocos los que prefieren la libertad, la mayoría sólo quiere un amo justo"
-tags: ["personal, filosofia, libertad"]
-category: "filosofia"
+tags: ["personal", "filosofia", "libertad"]
+category: ["filosofia"]
+slug: "la-libertad"
 ---
 
 > Son pocos los que prefieren la libertad, la mayoría sólo quiere un amo justo. - Salustio

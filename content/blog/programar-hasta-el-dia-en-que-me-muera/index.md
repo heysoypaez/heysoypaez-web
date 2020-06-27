@@ -3,7 +3,8 @@ title: Voy a programar hasta el dia en que me muera.
 date: "2020-02-01T22:40:32.169Z"
 description: Así como el 15 de de junio de 1813, Simón Bolivar hizó el decreto de guerra a muerte ante la corona española, así declaro...
 tags: ["compromisos"]
-category: "programación"
+category: ["software","personal"]
+slug: "programar-hasta-el-dia-en-que-me-muera"
 ---
 
 _A mis queridos reclutadores, clientes potenciales, colegas, socios, amigos y en especial: **a mi mismo**._

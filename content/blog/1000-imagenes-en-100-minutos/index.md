@@ -3,7 +3,8 @@ title: 1000 imagenes en 100 minutos.
 date: "2020-02-14T22:40:32.169Z"
 description:
 tags: ["experiencias"]
-category: "tecnologia"
+category: ["software"]
+slug: "1000-imagenes-en-100-minutos"
 ---
 
 > "Una máquina puede hacer el trabajo de cincuenta hombres ordinarios. Ninguna máquina puede hacer el trabajo de un hombre extraordinario." - Elbert Hubbard, Escritor.

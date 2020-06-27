@@ -3,7 +3,8 @@ title: Mi teoría sobre la realidad económica en el coronavirus.
 date: "2020-03-21T22:40:32.169Z"
 description: "No es lo que te sucede, es lo que haces al respecto lo que determina la mayor parte de tu destino"
 tags: ["analisis"]
-category: "economia"
+category: ["economia"]
+slug: "mi-teoria-sobre-la-realidad-del-coronnavirus"
 ---
 
 > "...Primera parte: lo que nos está sucediendo no es bueno, y las tendencias sugieren que será peor antes que

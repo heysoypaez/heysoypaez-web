@@ -1,64 +1,65 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require("path")
+const _ = require("lodash")
 
-exports.createPages = async ({ graphql, actions }) => {
+exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const result = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-              }
+  const blogPostTemplate = path.resolve("src/templates/post.js")
+  const tagTemplate = path.resolve("src/templates/tag.js")
+
+  const result = await graphql(`
+    {
+      postsRemark: allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] }
+        limit: 2000
+      ) {
+        edges {
+          node {
+            frontmatter {
+              slug
+              tags
             }
           }
         }
       }
-    `
-  )
+      tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
+    }
+  `)
 
+  // handle errors
   if (result.errors) {
-    throw result.errors
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
   }
 
-  // Create blog posts pages.
-  const posts = result.data.allMarkdownRemark.edges
+  const posts = result.data.postsRemark.edges
 
-  posts.forEach((post, index) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
-
+  // Create post detail pages
+  posts.forEach(({ node }) => {
     createPage({
-      path: post.node.fields.slug,
-      component: blogPost,
+      path: node.frontmatter.slug,
+      component: blogPostTemplate,
       context: {
-        slug: post.node.fields.slug,
-        previous,
-        next,
+        slug: node.frontmatter.slug,
       },
     })
   })
-}
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  // Extract tag data from query
+  const tags = result.data.tagsGroup.group
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
+  // Make tag pages
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
     })
-  }
+  })
 }

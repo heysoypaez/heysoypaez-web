@@ -3,7 +3,8 @@ title: Distracciones, el camino a la mediocriodad.
 date: "2020-02-09T22:40:32.169Z"
 description:
 tags: ["observaciones"]
-category: "desarrollo personal"
+category: ["individuo"]
+slug: "distracciones-el-camino-a-la-mediocridad"
 ---
 
 > "Y finalmente, llega la cultura, que consiste en distracciones, descanso y medios para evadirse del dolor de vivir." - [John Steinbeck, escritor estadounidense](https://es.wikipedia.org/wiki/John_Steinbeck).

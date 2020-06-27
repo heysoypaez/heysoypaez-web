@@ -3,7 +3,8 @@ title: La incongruencia es el dolor más terrible.
 date: "2020-02-03T22:40:32.169Z"
 description: Ser incongruente significa que lo que dices, lo que haces, **lo que es importante y prioritario para ti (tus valores)** no concuerda...
 tags: ["reflexiones"]
-category: "personal"
+category: ["personal"]
+slug: "la-incongruencia-es-el-dolor-mas-terrible"
 ---
 
 La incongruencia es el dolor más terrible **y el más importante.**
