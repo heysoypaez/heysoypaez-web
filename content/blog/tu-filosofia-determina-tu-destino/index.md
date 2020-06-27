@@ -3,7 +3,7 @@ title: Tu filosofía determina tu destino.
 date: "2020-02-01T22:40:32.169Z"
 description: "No es lo que te sucede, es lo que haces al respecto lo que determina la mayor parte de tu destino"
 tags: ["principios"]
-category: ["filosofia","individuo"]
+category: ["filosofia", "individuo"]
 slug: "tu-filosofia-determina-tu-destino"
 ---
 

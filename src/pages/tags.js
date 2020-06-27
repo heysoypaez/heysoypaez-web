@@ -22,10 +22,12 @@ const TagsPage = ({
       <Layout location={location} title={title}>
         <div>
           <h1>Tags</h1>
-          <ul style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(4,1fr)"
-          }} >
+          <ul
+            style={{
+              display: "grid",
+              gridTemplateColumns: "repeat(4,1fr)",
+            }}
+          >
             {group.map(tag => (
               <li key={tag.fieldValue}>
                 <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
