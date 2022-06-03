@@ -38,7 +38,7 @@
     "@mdx-js/mdx": "^1.6.1",
     "@mdx-js/react": "^1.6.1",
     "disqus-react": "^1.0.7",
-    "gatsby-plugin-mdx": "^1.2.7",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-transformer-sharp": "^2.3.14",
     "lodash": "^4.17.15",
